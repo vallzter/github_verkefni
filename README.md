@@ -1,4 +1,4 @@
-#GitHub einstaklingsverkefni
+#GitHub einstaklingsverkefni#arekstururururu
 ##Greinar og samruni - Branching and Merging
 <ol>
  <li>Skoðaðu vinnuferlið í framkvæmdaskrá (Commits) geymslunnar
@@ -27,5 +27,5 @@
 ####Allar aðgerðir og skráningar (Branches/Commits) eiga að vera í sögu skjalana ( Commits / History ) á GitHub.
 
 ####Verkefnaskil á Innu:  Skilaðu tengli á GitHub geymsluna þína í öllum áföngunum sem eru með hópverkefnið. 
-HALLO HALLO
+
 
