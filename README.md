@@ -1,4 +1,7 @@
-#GitHub einstaklingsverkefni#arekstururururu5g54qxch eqrgqrgq
+
+
+#GitHub einstaklingsverkefni
+
 ##Greinar og samruni - Branching and Merging
 <ol>
  <li>Skoðaðu vinnuferlið í framkvæmdaskrá (Commits) geymslunnar
@@ -9,7 +12,8 @@
  <li>Í skjalinu <i> "github_verkefni-glosur.docx </i> er hægt að sjá vinnuferlið við að stofna þessa geymslu</li>
 </ol>
 
-##Námsmat:#arekstur incomintghwyrjhnw5j v56hwybw
+##Námsmat:
+
 <ol>
 	<li>GIT spurningar (2%) <br>
 	Spurningum er svarað í git_svor.txt samkvæmt leiðbeiningum</li>
